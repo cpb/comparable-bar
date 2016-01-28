@@ -1,0 +1,19 @@
+{
+  "name": "comparable-bar",
+  "version": "0.0.0",
+  "description": "A VictoryJS component for stacked bar charts that let users hover and click to compare the values encoded in a bar.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cpb/comparable-bar.git"
+  },
+  "author": "Caleb Buxton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpb/comparable-bar/issues"
+  },
+  "homepage": "https://github.com/cpb/comparable-bar#readme"
+}
