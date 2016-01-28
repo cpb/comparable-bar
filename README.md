@@ -25,4 +25,4 @@ A VictoryJS component for stacked bar charts that lets users hover and click to 
   render(<MyLovelyBarChart />, document.getElementById('app'));
   ```
 3. `ComparableBar` component will be rendered, and you should see:
-![ComparableBar]
+[[https://github.com/cpb/comparable-bar/blob/master/docs/sample.png|alt='Default Rendering of ComparableBar']]
