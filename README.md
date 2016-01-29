@@ -7,7 +7,7 @@ A VictoryJS component for stacked bar charts that lets users hover and click to 
   ```
   npm install comparable-bar --save
   ```
-2. Add your first Victory component:
+2. Add your first Comparable Bar component:
 
   ```jsx
   import React, { Component } from 'react';
