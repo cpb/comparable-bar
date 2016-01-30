@@ -1,6 +1,6 @@
 {
   "name": "comparable-bar",
-  "version": "0.0.0-draft",
+  "version": "0.0.0-draft0",
   "description": "A VictoryJS component for stacked bar charts that let users hover and click to compare the values encoded in a bar.",
   "main": "src/index.js",
   "scripts": {
